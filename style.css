@@ -1,0 +1,45 @@
+body {
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  background: #F5F5DC;
+  margin: 70px;
+  text-align: center;
+}
+
+/*css form*/
+
+input[type="submit"]{
+    background: darkblue;
+    color:white;
+}
+input[type="submit"]:hover{
+background: royalblue
+}
+
+input[type="reset"]{
+    background: darkblue;
+    color:white;
+}
+input[type="reset"]:hover{
+background: royalblue
+}
+input{
+	height: 30px;
+	width: 250px;
+  border-radius: 1px;
+  border : 0px;
+  padding-left: 7px;
+}
+.btn-danger {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  text-align: center;
+  border: 1px solid transparent;
+  bor
